@@ -1,0 +1,1 @@
+XXE (XML External Entity) injection vulnerabilities can be easy to spot in some cases because the application's regular web traffic includes requests with XML data. In other situations, these vulnerabilities might not be so obvious. But if you search carefully, you can discover XXE vulnerabilities even in requests that don't seem to have XML data at first glance.

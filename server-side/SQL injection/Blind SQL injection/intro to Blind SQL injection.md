@@ -1,0 +1,7 @@
+- Blind SQL injection arises when an application is vulnerable to SQL injection, but its HTTP responses do not contain the results of the relevant SQL query or the details of any database error
+- Blind vulnerabilities can still be exploited to access unauthorized data.
+- With blind SQL injection vulnerabilities, many techniques such as [`UNION` attacks](https://portswigger.net/web-security/sql-injection/union-attacks), are not effective because they rely on being able to see the results of the injected query within the application's responses. It is still possible to exploit blind SQL injection to access unauthorized data, but different techniques must be used.
+- the following techniques can be used to exploit blind SQL injection vulnerabilities:
+	- You can change the logic of the query to trigger a detectable difference in the application's response. This might involve injecting a new condition into some Boolean logic, or conditionally triggering an error such as a divide-by-zero.
+	- You can conditionally trigger a time delay in the processing of the query.
+	- You can trigger an out-of-band network interaction, using [OAST](https://portswigger.net/burp/application-security-testing/oast) techniques
