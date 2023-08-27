@@ -5,6 +5,8 @@
 - To deliver a DOM-based XSS attack, you need to place data into a source so that it is propagated to a sink and causes execution of arbitrary JavaScript.
 - The most common source for DOM XSS is the URL, which is typically accessed with the `window.location` object.
 
+##### In simple terms - 
+Attack wherein the attack payload is executed as a result of modifying the DOM "environment" in the victim's browser used by the original client side script.
 ## How to test for DOM-based cross-site scripting
 - The majority of DOM XSS vulnerabilities can be found quickly and reliably using Burp Suite's web vulnerability scanner.
 - To test for DOM-based cross-site scripting manually, you generally need to use a browser with developer tools, such as Chrome.

@@ -1,0 +1,3 @@
+- Javascript property that contains data that an attacker could potentially control.
+- The source is the property that is read from the DOM.
+- Or you can say source is the input where the payload is injected

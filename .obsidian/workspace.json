@@ -8,19 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f8e89cdb66b8c705",
+            "id": "72b9974c1e253d78",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "common_terms/sinks.md",
+                "file": "client-side/XSS/DOM-based_XSS/(lab-8)Stored_DOM_XSS.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "783d1d8bf820427a",
+            "id": "c9295f95103a0f2f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -30,45 +30,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "8108996b9353e523",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "client-side/XSS/DOM-based_XSS/(lab-4)DOM_XSS_in_jQuery_anchor_href_attribute_sink_using_location.search_source.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1e367572554967e0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "client-side/XSS/DOM-based_XSS/(lab-2)Exploiting_DOM_XSS_with_different_sources_and_sinks.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5d554cc5e9dcd357",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "client-side/XSS/DOM-based_XSS/DOM-based_XSS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 481.5
+    "width": 261.5
   },
   "right": {
     "id": "921a2791ecd52841",
@@ -134,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "client-side/XSS/DOM-based_XSS/(lab-7)DOM_XSS_combined_with_reflected_and_stored_data.md",
+                "file": "client-side/XSS/DOM-based_XSS/(lab-8)Stored_DOM_XSS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "client-side/XSS/DOM-based_XSS/(lab-7)DOM_XSS_combined_with_reflected_and_stored_data.md",
+                "file": "client-side/XSS/DOM-based_XSS/(lab-8)Stored_DOM_XSS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "client-side/XSS/DOM-based_XSS/(lab-7)DOM_XSS_combined_with_reflected_and_stored_data.md"
+                "file": "client-side/XSS/DOM-based_XSS/(lab-8)Stored_DOM_XSS.md"
               }
             }
           }
@@ -195,53 +158,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "783d1d8bf820427a",
+  "active": "72b9974c1e253d78",
   "lastOpenFiles": [
-    "client-side/XSS/DOM-based_XSS/(lab-6)DOM_XSS_in_AngularJS.md",
+    "client-side/XSS/images/XSS27.png",
+    "client-side/XSS/images/XSS26.png",
     "client-side/XSS/DOM-based_XSS/(lab-7)DOM_XSS_combined_with_reflected_and_stored_data.md",
+    "client-side/XSS/DOM-based_XSS/(lab-8)Stored_DOM_XSS.md",
+    "client-side/XSS/images/XSS25.png",
+    "common_terms/sinks.md",
+    "client-side/XSS/DOM-based_XSS/DOM-based_XSS.md",
+    "client-side/XSS/DOM-based_XSS/(lab-2)Exploiting_DOM_XSS_with_different_sources_and_sinks.md",
+    "client-side/XSS/DOM-based_XSS/(lab-4)DOM_XSS_in_jQuery_anchor_href_attribute_sink_using_location.search_source.md",
+    "client-side/XSS/DOM-based_XSS/(lab-8)Stored_DOM_XSS",
+    "client-side/XSS/DOM-based_XSS/(lab-3)DOM_XSS_in_innerHTML_sink_using_source_location.search.md",
+    "common_terms/source.md",
+    "client-side/XSS/DOM-based_XSS/(lab-1)Exploiting_DOM_XSS_with_different_sources_and_sinks.md",
+    "client-side/XSS/Reflected_XSS.md",
+    "client-side/XSS/Stored_XSS.md",
+    "client-side/XSS/DOM-based_XSS/code_example_lab-7/(lab-8)Stored_DOM_XSS",
+    "client-side/XSS/DOM-based_XSS/code_example_lab-7/(lab-8)",
+    "client-side/XSS/images/XSS24.png",
+    "client-side/XSS/images/XSS23.png",
+    "client-side/XSS/DOM-based_XSS/code_example_lab-7/lab-7.html",
+    "client-side/XSS/DOM-based_XSS/code_example_lab-7/data.json",
+    "client-side/XSS/DOM-based_XSS/code_example_lab-7",
+    "client-side/XSS/DOM-based_XSS/lab-7.html",
+    "client-side/XSS/images/XSS22.png",
+    "client-side/XSS/images/XSS21.png",
+    "client-side/XSS/images/XSS20.png",
+    "client-side/XSS/images/XSS19.png",
+    "client-side/XSS/XSS_cheat-sheet-link.md",
+    "client-side/XSS/DOM-based_XSS/DOM-based_XSS_list.md",
+    "client-side/XSS/DOM-based_XSS/temp_code.html",
+    "client-side/XSS/DOM-based_XSS/(lab-6)DOM_XSS_in_AngularJS.md",
     "client-side/XSS/images/XSS18.png",
     "client-side/XSS/images/XSS17.png",
-    "client-side/XSS/DOM-based_XSS/(lab-4)DOM_XSS_in_jQuery_anchor_href_attribute_sink_using_location.search_source.md",
-    "client-side/XSS/XSS_cheat-sheet-link.md",
     "client-side/XSS/DOM-based_XSS/(lab-5)DOM_XSS_in_jQuery_selector_sink_using_a_hashchange_event.md",
-    "client-side/XSS/images/XSS16.png",
-    "client-side/XSS/images/XSS15.png",
-    "client-side/XSS/images/XSS14.png",
-    "client-side/XSS/DOM-based_XSS/(lab-2)Exploiting_DOM_XSS_with_different_sources_and_sinks.md",
-    "client-side/XSS/images/XSS13.png",
-    "client-side/XSS/images/XSS12.png",
-    "client-side/XSS/DOM-based_XSS/DOM-based_XSS.md",
-    "client-side/XSS/DOM-based_XSS/(lab-3)DOM_XSS_in_innerHTML_sink_using_source_location.search.md",
-    "client-side/XSS/DOM-based_XSS/(lab-1)Exploiting_DOM_XSS_with_different_sources_and_sinks.md",
-    "client-side/XSS/images/XSS11.png",
-    "client-side/XSS/images/XSS10.png",
-    "client-side/XSS/images/XSS9.png",
-    "client-side/XSS/DOM-based_XSS/DOM-based_XSS_list.md",
-    "client-side/XSS/Reflected_XSS.md",
-    "common_terms/sinks.md",
     "client-side/XSS/DOM-based_XSS",
-    "client-side/XSS/Stored_XSS.md",
     "burp_suite_concepts/Sending_over_separate_connections.md",
     "client-side/XSS/XSS_overview.md",
     "server-side/access control/access control overview.md",
     "client-side/XSS/images",
     "server-side/Race_Conditions/Hidden_multi-step_sequences(lab-3).md",
-    "client-side/XSS",
     "server-side/Race_Conditions/Detecting_and_exploiting_limit_overrun_race_conditions_with_Turbo_Intruderl(lab-2).md",
     "server-side/Race_Conditions/Limit_overrun_race_conditions(lab-1).md",
     "burp_suite_concepts/Sending_requests_in_parallel.md",
     "burp_suite_concepts/Sending_requests_over_sequence.md",
     "burp_suite_concepts/Creating_a_new_tab_group.md",
-    "server-side/Race_Conditions/race_conditions_overview.md",
-    "client-side",
-    "server-side/SQL injection/Retrieving data from other tables/UNION attack to retrieve interesting data from other tables.md",
-    "server-side/SQL injection/Retrieving data from other tables/Finding columns with a useful data type in a SQL injection UNION attack.md",
-    "server-side/SQL injection/Retrieving data from other tables/introduction.md",
-    "server-side/SQL injection/Retrieving data from other tables",
-    "server-side/SQL injection/images",
-    "server-side/SQL injection/Examining the database",
-    "server-side/SQL injection/Blind SQL injection",
-    "server-side/SQL injection",
-    "server-side/XML_external_entity_(XXE)_injection/images"
+    "server-side/Race_Conditions/race_conditions_overview.md"
   ]
 }

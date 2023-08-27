@@ -1,6 +1,9 @@
 - a "sink" refers to a component or part of a system that consumes or receives some form of input, data, or information. 
 - These sinks could include form inputs, event listeners, API endpoints, or any other components that take in HTML-related data.
 - Testing these sinks is important for ensuring the proper functioning of the system and preventing issues like security vulnerabilities, data corruption, or unexpected behavior.
+										**Or**
+- Function or DOM object that allows javascript code execution or rendering of HTML.
+- Points in the flow of data at which the untrusted input gets outputted on the page or executed by javascript within the page.
 
 **Sink**: A "sink" is a point in the web application's code where the user-controlled data from a source is used or processed in a way that can potentially lead to security vulnerabilities. Sinks are places where the user data can affect the behavior of the application, like being directly written to the DOM, used in JavaScript execution, or included in other dynamic content.
 ## Example - 
