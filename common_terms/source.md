@@ -1,3 +1,5 @@
-- Javascript property that contains data that an attacker could potentially control.
-- The source is the property that is read from the DOM.
-- Or you can say source is the input where the payload is injected
+- A source is a JavaScript property that accepts data that is potentially attacker-controlled.
+- An example of a source is the `location.search` property because it reads input from the query string, which is relatively simple for an attacker to control.
+- Or you can say source is the input where the payload is injected.
+- Ultimately, any property that can be controlled by the attacker is a potential source.
+- This includes the referring URL (exposed by the `document.referrer` string), the user's cookies (exposed by the `document.cookie` string), and web messages.

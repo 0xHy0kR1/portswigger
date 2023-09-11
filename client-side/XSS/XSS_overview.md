@@ -15,6 +15,6 @@ Cross-site scripting works by manipulating a vulnerable web site so that it retu
 ## What are the types of XSS attacks?
 There are three main types of XSS attacks. These are:
 
-1. [[Reflected_XSS]], where the malicious script comes from the current HTTP request.
+1. [[(lab-1)Reflected_XSS]], where the malicious script comes from the current HTTP request.
 2. [[Stored_XSS]], where the malicious script comes from the website's database.
 3. [[DOM-based_XSS]], where the vulnerability exists in client-side code rather than server-side code.

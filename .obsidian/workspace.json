@@ -4,28 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "82adbd896a52bc84",
+        "id": "0764d1061f963b98",
         "type": "tabs",
         "children": [
           {
-            "id": "72b9974c1e253d78",
+            "id": "e2dee3f911f6dfe7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "client-side/XSS/DOM-based_XSS/(lab-8)Stored_DOM_XSS.md",
+                "file": "client-side/XSS/Cross-site_scripting_contexts/XSS_into_js/(lab-12)Reflected_XSS_in_a_JavaScript_URL_with_some_characters_blocked.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "c9295f95103a0f2f",
+            "id": "5211201916f4eb0d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "client-side/XSS/DOM-based_XSS/(lab-7)DOM_XSS_combined_with_reflected_and_stored_data.md",
+                "file": "client-side/XSS/Cross-site_scripting_contexts/XSS_into_js/(lab-11)Reflected_XSS_into_a_JavaScript_string_with_angle_brackets_and_double_quotes_HTML-encoded_and_single_quotes_escaped.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "10a46b6cd11efccc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "client-side/XSS/Cross-site_scripting_contexts/XSS_into_js/(lab-10)Breaking_out_of_a_JavaScript_string.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "user-agent",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 261.5
+    "width": 613.5041885375977
   },
   "right": {
     "id": "921a2791ecd52841",
@@ -97,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "client-side/XSS/DOM-based_XSS/(lab-8)Stored_DOM_XSS.md",
+                "file": "client-side/XSS/Cross-site_scripting_contexts/XSS_into_js/(lab-12)Reflected_XSS_in_a_JavaScript_URL_with_some_characters_blocked.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "client-side/XSS/DOM-based_XSS/(lab-8)Stored_DOM_XSS.md",
+                "file": "client-side/XSS/Cross-site_scripting_contexts/XSS_into_js/(lab-12)Reflected_XSS_in_a_JavaScript_URL_with_some_characters_blocked.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "client-side/XSS/DOM-based_XSS/(lab-8)Stored_DOM_XSS.md"
+                "file": "client-side/XSS/Cross-site_scripting_contexts/XSS_into_js/(lab-12)Reflected_XSS_in_a_JavaScript_URL_with_some_characters_blocked.md"
               }
             }
           }
@@ -158,53 +170,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "72b9974c1e253d78",
+  "active": "e2dee3f911f6dfe7",
   "lastOpenFiles": [
-    "client-side/XSS/images/XSS27.png",
-    "client-side/XSS/images/XSS26.png",
-    "client-side/XSS/DOM-based_XSS/(lab-7)DOM_XSS_combined_with_reflected_and_stored_data.md",
-    "client-side/XSS/DOM-based_XSS/(lab-8)Stored_DOM_XSS.md",
-    "client-side/XSS/images/XSS25.png",
+    "client-side/XSS/images/XSS86.png",
+    "client-side/XSS/images/XSS85.png",
+    "client-side/XSS/XSS_vi/Reflected_XSS_in_a_JavaScript_URL_with_some_characters_blocked-Explaining_the_Payload.mp4",
+    "client-side/XSS/Cross-site_scripting_contexts/XSS_into_js/(lab-12)Reflected_XSS_in_a_JavaScript_URL_with_some_characters_blocked.md",
+    "client-side/XSS/XSS_vi/Reflected XSS in a JavaScript URL with some characters blocked - Explaining the Payload.mp4",
+    "client-side/XSS/XSS_vi",
+    "client-side/XSS/New folder",
+    "client-side/XSS/images/XSS84.png",
+    "client-side/XSS/images/XSS83.png",
+    "client-side/XSS/Cross-site_scripting_contexts/XSS_into_js/(lab-11)Reflected_XSS_into_a_JavaScript_string_with_angle_brackets_and_double_quotes_HTML-encoded_and_single_quotes_escaped.md",
+    "client-side/XSS/XSS_cheat-sheet-link.md",
+    "common_terms/User-agent header.md",
+    "client-side/XSS/images/XSS82.png",
+    "client-side/XSS/Cross-site_scripting_contexts/XSS_into_js/(lab-10)Breaking_out_of_a_JavaScript_string.md",
+    "client-side/XSS/images/XSS81.png",
+    "client-side/XSS/images/XSS80.png",
+    "client-side/XSS/Cross-site_scripting_contexts/XSS_into_js/(lab-9)Terminating_the_existing_script.md",
+    "client-side/XSS/images/XSS79.png",
+    "client-side/XSS/Cross-site_scripting_contexts/(lab-4)Reflected_XSS_with_event_handlers_and_href_attributes_blocked.md",
+    "client-side/XSS/DOM-based_XSS/(lab-13)DOM-based_cookie_manipulation.md",
+    "client-side/XSS/images/XSS78.png",
+    "client-side/XSS/images/XSS77.png",
+    "client-side/XSS/Cross-site_scripting_contexts/XSS_into_js",
+    "client-side/XSS/Cross-site_scripting_contexts/(lab-8)Reflected_XSS_in_canonical_link_tag.md",
+    "client-side/XSS/images/XSS76.png",
+    "client-side/XSS/Cross-site_scripting_contexts/(lab-7)Stored-XSS_into_anchor_href_attribute_with_double_quotes_HTML-encoded.md",
+    "client-side/XSS/DOM-based_XSS/(lab-1)Exploiting_DOM_XSS_with_different_sources_and_sinks.md",
     "common_terms/sinks.md",
     "client-side/XSS/DOM-based_XSS/DOM-based_XSS.md",
-    "client-side/XSS/DOM-based_XSS/(lab-2)Exploiting_DOM_XSS_with_different_sources_and_sinks.md",
-    "client-side/XSS/DOM-based_XSS/(lab-4)DOM_XSS_in_jQuery_anchor_href_attribute_sink_using_location.search_source.md",
-    "client-side/XSS/DOM-based_XSS/(lab-8)Stored_DOM_XSS",
-    "client-side/XSS/DOM-based_XSS/(lab-3)DOM_XSS_in_innerHTML_sink_using_source_location.search.md",
-    "common_terms/source.md",
-    "client-side/XSS/DOM-based_XSS/(lab-1)Exploiting_DOM_XSS_with_different_sources_and_sinks.md",
-    "client-side/XSS/Reflected_XSS.md",
-    "client-side/XSS/Stored_XSS.md",
-    "client-side/XSS/DOM-based_XSS/code_example_lab-7/(lab-8)Stored_DOM_XSS",
-    "client-side/XSS/DOM-based_XSS/code_example_lab-7/(lab-8)",
-    "client-side/XSS/images/XSS24.png",
-    "client-side/XSS/images/XSS23.png",
-    "client-side/XSS/DOM-based_XSS/code_example_lab-7/lab-7.html",
-    "client-side/XSS/DOM-based_XSS/code_example_lab-7/data.json",
-    "client-side/XSS/DOM-based_XSS/code_example_lab-7",
-    "client-side/XSS/DOM-based_XSS/lab-7.html",
-    "client-side/XSS/images/XSS22.png",
-    "client-side/XSS/images/XSS21.png",
-    "client-side/XSS/images/XSS20.png",
-    "client-side/XSS/images/XSS19.png",
-    "client-side/XSS/XSS_cheat-sheet-link.md",
     "client-side/XSS/DOM-based_XSS/DOM-based_XSS_list.md",
-    "client-side/XSS/DOM-based_XSS/temp_code.html",
-    "client-side/XSS/DOM-based_XSS/(lab-6)DOM_XSS_in_AngularJS.md",
-    "client-side/XSS/images/XSS18.png",
-    "client-side/XSS/images/XSS17.png",
-    "client-side/XSS/DOM-based_XSS/(lab-5)DOM_XSS_in_jQuery_selector_sink_using_a_hashchange_event.md",
-    "client-side/XSS/DOM-based_XSS",
-    "burp_suite_concepts/Sending_over_separate_connections.md",
+    "client-side/XSS/Cross-site_scripting_contexts/(lab-6)XSS_in_HTML_tag_attributes.md",
+    "client-side/XSS/Cross-site_scripting_contexts/(lab-5)Reflected_XSS_with_some_SVG_markup_allowed.md",
+    "client-side/XSS/Cross-site_scripting_contexts/(lab-2)Reflected_XSS_into_HTML_context_with_most_tags_and attributes blocked.md",
+    "client-side/XSS/Cross-site_scripting_contexts/(lab-3)Reflected_XSS_into_HTML_context_with_all_tags_blocked_except_custom_ones.md",
+    "temp.html",
+    "client-side/XSS/Cross-site_scripting_contexts/(lab-1)Reflected_XSS.md",
+    "client-side/XSS/DOM-based_XSS/(lab-12)DOM-based_open_redirection.md",
+    "client-side/XSS/Cross-site_scripting_contexts",
+    "client-side/XSS/DOM-based_XSS/(lab-9_and_lab-10)DOM_XSS_using_web_messages.md",
+    "common_terms/source.md",
+    "client-side/XSS/DOM-based_XSS/(lab-11)Origin_verification.md",
+    "client-side/XSS/DOM-based_XSS/(lab-8)Stored_DOM_XSS.md",
     "client-side/XSS/XSS_overview.md",
-    "server-side/access control/access control overview.md",
-    "client-side/XSS/images",
-    "server-side/Race_Conditions/Hidden_multi-step_sequences(lab-3).md",
-    "server-side/Race_Conditions/Detecting_and_exploiting_limit_overrun_race_conditions_with_Turbo_Intruderl(lab-2).md",
-    "server-side/Race_Conditions/Limit_overrun_race_conditions(lab-1).md",
-    "burp_suite_concepts/Sending_requests_in_parallel.md",
-    "burp_suite_concepts/Sending_requests_over_sequence.md",
-    "burp_suite_concepts/Creating_a_new_tab_group.md",
-    "server-side/Race_Conditions/race_conditions_overview.md"
+    "client-side/XSS/DOM-based_XSS/(lab-8)Stored_DOM_XSS",
+    "client-side/XSS/DOM-based_XSS/code_example_lab-7/(lab-8)Stored_DOM_XSS",
+    "client-side/XSS/DOM-based_XSS/code_example_lab-7/(lab-8)"
   ]
 }
