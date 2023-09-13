@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "client-side/XSS/Cross-site_scripting_contexts/XSS_into_js/(lab-13)Making_use_of_HTML-encoding.md",
+                "file": "server-side/SQL injection/Intro to SQLi vulnerability.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "client-side/XSS/Cross-site_scripting_contexts/XSS_into_js/(lab-13)Making_use_of_HTML-encoding.md",
+                "file": "server-side/SQL injection/Intro to SQLi vulnerability.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "client-side/XSS/Cross-site_scripting_contexts/XSS_into_js/(lab-13)Making_use_of_HTML-encoding.md",
+                "file": "server-side/SQL injection/Intro to SQLi vulnerability.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "client-side/XSS/Cross-site_scripting_contexts/XSS_into_js/(lab-13)Making_use_of_HTML-encoding.md"
+                "file": "server-side/SQL injection/Intro to SQLi vulnerability.md"
               }
             }
           },
@@ -170,8 +170,19 @@
   },
   "active": "fda966920cc65e8d",
   "lastOpenFiles": [
-    "client-side/XSS/XSS_vi/Stored_XSS_in_onclick_Payload_obfuscation_with_HTML_encoding..mp4",
+    "server-side/SQL injection/images/intro_sqli.png",
+    "server-side/SQL injection/SQL injection cheat sheet.md",
+    "server-side/SQL injection/Retrieving data from other tables/introduction.md",
+    "server-side/SQL injection/Subverting application logic.md",
+    "server-side/SQL injection/SQL injection Prevention Techniques.md",
+    "server-side/SQL injection/SQL injection in different parts of the query.md",
+    "server-side/SQL injection/SQL injection in different contexts(WAF blocks SQL query).md",
+    "server-side/SQL injection/Intro to SQLi vulnerability.md",
+    "server-side/SQL injection/first and second order SQL injection.md",
+    "server-side/SQL injection/How to detect SQL injection vulnerabilities.md",
+    "server-side/SQL injection/Retrieving hidden data.md",
     "client-side/XSS/Cross-site_scripting_contexts/XSS_into_js/(lab-13)Making_use_of_HTML-encoding.md",
+    "client-side/XSS/XSS_vi/Stored_XSS_in_onclick_Payload_obfuscation_with_HTML_encoding..mp4",
     "client-side/XSS/images/XSS89.png",
     "client-side/XSS/Cross-site_scripting_contexts/XSS_into_js/(lab-12)Reflected_XSS_in_a_JavaScript_URL_with_some_characters_blocked.md",
     "client-side/XSS/images/XSS88.png",
@@ -201,18 +212,8 @@
     "common_terms/sinks.md",
     "client-side/XSS/DOM-based_XSS/DOM-based_XSS.md",
     "client-side/XSS/DOM-based_XSS/DOM-based_XSS_list.md",
-    "client-side/XSS/Cross-site_scripting_contexts/(lab-6)XSS_in_HTML_tag_attributes.md",
-    "client-side/XSS/Cross-site_scripting_contexts/(lab-5)Reflected_XSS_with_some_SVG_markup_allowed.md",
-    "client-side/XSS/Cross-site_scripting_contexts/(lab-2)Reflected_XSS_into_HTML_context_with_most_tags_and attributes blocked.md",
-    "client-side/XSS/Cross-site_scripting_contexts/(lab-3)Reflected_XSS_into_HTML_context_with_all_tags_blocked_except_custom_ones.md",
     "temp.html",
-    "client-side/XSS/Cross-site_scripting_contexts/(lab-1)Reflected_XSS.md",
-    "client-side/XSS/DOM-based_XSS/(lab-12)DOM-based_open_redirection.md",
     "client-side/XSS/Cross-site_scripting_contexts",
-    "client-side/XSS/DOM-based_XSS/(lab-9_and_lab-10)DOM_XSS_using_web_messages.md",
-    "common_terms/source.md",
-    "client-side/XSS/DOM-based_XSS/(lab-11)Origin_verification.md",
-    "client-side/XSS/DOM-based_XSS/(lab-8)Stored_DOM_XSS.md",
     "client-side/XSS/DOM-based_XSS/(lab-8)Stored_DOM_XSS",
     "client-side/XSS/DOM-based_XSS/code_example_lab-7/(lab-8)Stored_DOM_XSS"
   ]
