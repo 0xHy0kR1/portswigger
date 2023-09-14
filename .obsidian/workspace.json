@@ -13,19 +13,43 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "server-side/SQL injection/Intro to SQLi vulnerability.md",
+                "file": "client-side/XSS/Cross-site_scripting_contexts/XSS_into_js/(lab-14)XSS_in_js_template_literals.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "00ce60553c9987e2",
+            "id": "df0a9ee8851f0f44",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "client-side/XSS/Cross-site_scripting_contexts/XSS_into_js/(lab-12)Reflected_XSS_in_a_JavaScript_URL_with_some_characters_blocked.md",
+                "file": "client-side/XSS/DOM-based_XSS/DOM-based_XSS_list.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "be26c7e7fdf9f9b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "common_terms/embedded JavaScript expressions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eea564a6b417b4cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "client-side/XSS/Cross-site_scripting_contexts/XSS_into_js/(lab-13)Making_use_of_HTML-encoding.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "server-side/SQL injection/Intro to SQLi vulnerability.md",
+                "file": "client-side/XSS/Cross-site_scripting_contexts/XSS_into_js/(lab-14)XSS_in_js_template_literals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "server-side/SQL injection/Intro to SQLi vulnerability.md",
+                "file": "client-side/XSS/Cross-site_scripting_contexts/XSS_into_js/(lab-14)XSS_in_js_template_literals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "server-side/SQL injection/Intro to SQLi vulnerability.md"
+                "file": "client-side/XSS/Cross-site_scripting_contexts/XSS_into_js/(lab-14)XSS_in_js_template_literals.md"
               }
             }
           },
@@ -170,6 +194,24 @@
   },
   "active": "fda966920cc65e8d",
   "lastOpenFiles": [
+    "client-side/XSS/XSS_vi/Reflected XSS into Template Literal.mp4",
+    "client-side/XSS/Cross-site_scripting_contexts/XSS_into_js/(lab-14)XSS_in_js_template_literals.md",
+    "client-side/XSS/images/XSS92.png",
+    "client-side/XSS/DOM-based_XSS/DOM-based_XSS_list.md",
+    "common_terms/embedded JavaScript expressions.md",
+    "client-side/XSS/Cross-site_scripting_contexts/XSS_into_js/(lab-13)Making_use_of_HTML-encoding.md",
+    "client-side/XSS/images/XSS91.png",
+    "client-side/XSS/images/XSS90.png",
+    "server-side/file upload vulnerabilities/obfuscating file extensions.md",
+    "server-side/file upload vulnerabilities/Exploiting_unrestricted_file_uploads_to_deploy_a_web_shell(lab-1).md",
+    "server-side/file upload vulnerabilities/file upload vulnerabilities overview.md",
+    "server-side/file upload vulnerabilities/Exploiting_flawed_validation_of_file_uploads(lab-2).md",
+    "server-side/file upload vulnerabilities/Exploiting_file_upload_vulnerabilities_without_remote_code_execution_and_Exploiting_vulnerabilities_in_the_parsing_of_uploaded_files.md",
+    "server-side/file upload vulnerabilities/Exploiting_file_upload_race_conditions.md",
+    "server-side/file upload vulnerabilities/Preventing_file_execution_in_user-accessible_directories(lab-3).md",
+    "server-side/file upload vulnerabilities/Insufficient_blacklisting_of_dangerous_file_types.md",
+    "server-side/file upload vulnerabilities/Flawed_validation_of_the_file's_contents.md",
+    "server-side/SQL injection/Intro to SQLi vulnerability.md",
     "server-side/SQL injection/images/intro_sqli.png",
     "server-side/SQL injection/SQL injection cheat sheet.md",
     "server-side/SQL injection/Retrieving data from other tables/introduction.md",
@@ -177,11 +219,9 @@
     "server-side/SQL injection/SQL injection Prevention Techniques.md",
     "server-side/SQL injection/SQL injection in different parts of the query.md",
     "server-side/SQL injection/SQL injection in different contexts(WAF blocks SQL query).md",
-    "server-side/SQL injection/Intro to SQLi vulnerability.md",
     "server-side/SQL injection/first and second order SQL injection.md",
     "server-side/SQL injection/How to detect SQL injection vulnerabilities.md",
     "server-side/SQL injection/Retrieving hidden data.md",
-    "client-side/XSS/Cross-site_scripting_contexts/XSS_into_js/(lab-13)Making_use_of_HTML-encoding.md",
     "client-side/XSS/XSS_vi/Stored_XSS_in_onclick_Payload_obfuscation_with_HTML_encoding..mp4",
     "client-side/XSS/images/XSS89.png",
     "client-side/XSS/Cross-site_scripting_contexts/XSS_into_js/(lab-12)Reflected_XSS_in_a_JavaScript_URL_with_some_characters_blocked.md",
@@ -194,27 +234,10 @@
     "client-side/XSS/XSS_vi",
     "client-side/XSS/New folder",
     "client-side/XSS/images/XSS84.png",
-    "client-side/XSS/images/XSS83.png",
     "client-side/XSS/Cross-site_scripting_contexts/XSS_into_js/(lab-11)Reflected_XSS_into_a_JavaScript_string_with_angle_brackets_and_double_quotes_HTML-encoded_and_single_quotes_escaped.md",
-    "client-side/XSS/XSS_cheat-sheet-link.md",
-    "common_terms/User-agent header.md",
-    "client-side/XSS/images/XSS82.png",
-    "client-side/XSS/Cross-site_scripting_contexts/XSS_into_js/(lab-10)Breaking_out_of_a_JavaScript_string.md",
-    "client-side/XSS/images/XSS81.png",
-    "client-side/XSS/images/XSS80.png",
-    "client-side/XSS/Cross-site_scripting_contexts/XSS_into_js/(lab-9)Terminating_the_existing_script.md",
-    "client-side/XSS/Cross-site_scripting_contexts/(lab-4)Reflected_XSS_with_event_handlers_and_href_attributes_blocked.md",
-    "client-side/XSS/DOM-based_XSS/(lab-13)DOM-based_cookie_manipulation.md",
     "client-side/XSS/Cross-site_scripting_contexts/XSS_into_js",
-    "client-side/XSS/Cross-site_scripting_contexts/(lab-8)Reflected_XSS_in_canonical_link_tag.md",
-    "client-side/XSS/Cross-site_scripting_contexts/(lab-7)Stored-XSS_into_anchor_href_attribute_with_double_quotes_HTML-encoded.md",
-    "client-side/XSS/DOM-based_XSS/(lab-1)Exploiting_DOM_XSS_with_different_sources_and_sinks.md",
-    "common_terms/sinks.md",
-    "client-side/XSS/DOM-based_XSS/DOM-based_XSS.md",
-    "client-side/XSS/DOM-based_XSS/DOM-based_XSS_list.md",
     "temp.html",
     "client-side/XSS/Cross-site_scripting_contexts",
-    "client-side/XSS/DOM-based_XSS/(lab-8)Stored_DOM_XSS",
-    "client-side/XSS/DOM-based_XSS/code_example_lab-7/(lab-8)Stored_DOM_XSS"
+    "client-side/XSS/DOM-based_XSS/(lab-8)Stored_DOM_XSS"
   ]
 }

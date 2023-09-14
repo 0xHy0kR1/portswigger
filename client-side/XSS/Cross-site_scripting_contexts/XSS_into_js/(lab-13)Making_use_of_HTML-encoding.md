@@ -24,9 +24,9 @@ The `&apos;` sequence is an HTML entity representing an apostrophe or single quo
 ![[XSS87.png]]
 
 ![[XSS88.png]]
-The code shown above in the red block is that code that we use to exploit the web application.
+The code shown above in the red block is that code that we are going to use to exploit the web application.
 
-2. Now, copy the below payload and paste it into the `Website` commentbox to perform "Stored XSS.
+2. Now, copy the below payload and paste it into the Website commentbox to perform Stored XSS.
 ```python
 http://codewithharry.com&apos;-alert(document.domain)-&apos;
 ```
