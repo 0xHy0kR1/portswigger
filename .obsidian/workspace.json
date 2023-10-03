@@ -8,54 +8,65 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fda966920cc65e8d",
+            "id": "5196e727acfb3920",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "client-side/XSS/Cross-site_scripting_contexts/XSS_into_js/(lab-14)XSS_in_js_template_literals.md",
+                "file": "client-side/CSRF/(lab-5)CSRF token is tied to a non-session cookie.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "df0a9ee8851f0f44",
+            "id": "5053623b0a5e02ae",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "client-side/CSRF/images/csrf38.png"
+              }
+            }
+          },
+          {
+            "id": "199cf96cbb3c3522",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "client-side/XSS/DOM-based_XSS/DOM-based_XSS_list.md",
+                "file": "server-side/Authentication/Vulnerabilities in authentication mechanisms/Vulnerabilities in multi-factor auth/2FA broken logic(concept and lab-2).md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "be26c7e7fdf9f9b4",
+            "id": "ca901cb2d8148259",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "common_terms/embedded JavaScript expressions.md",
+                "file": "server-side/Authentication/Vulnerabilities in authentication mechanisms/Vulnerabilities in multi-factor auth/multi-factor auth overview.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "eea564a6b417b4cc",
+            "id": "d6c3f38f2a1dafdb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "client-side/XSS/Cross-site_scripting_contexts/XSS_into_js/(lab-13)Making_use_of_HTML-encoding.md",
+                "file": "client-side/WebSockets/(lab-2)Manipulating the WebSocket handshake to exploit vulnerabilities.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -84,7 +95,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "user-agent",
+                "query": "2fa simple bypass",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -105,7 +116,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 613.5041885375977
+    "width": 579.5041885375977
   },
   "right": {
     "id": "921a2791ecd52841",
@@ -121,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "client-side/XSS/Cross-site_scripting_contexts/XSS_into_js/(lab-14)XSS_in_js_template_literals.md",
+                "file": "server-side/Authentication/Vulnerabilities in authentication mechanisms/Vulnerabilities in multi-factor auth/multi-factor auth overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "client-side/XSS/Cross-site_scripting_contexts/XSS_into_js/(lab-14)XSS_in_js_template_literals.md",
+                "file": "server-side/Authentication/Vulnerabilities in authentication mechanisms/Vulnerabilities in multi-factor auth/multi-factor auth overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "client-side/XSS/Cross-site_scripting_contexts/XSS_into_js/(lab-14)XSS_in_js_template_literals.md"
+                "file": "server-side/Authentication/Vulnerabilities in authentication mechanisms/Vulnerabilities in multi-factor auth/multi-factor auth overview.md"
               }
             }
           },
@@ -192,52 +203,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fda966920cc65e8d",
+  "active": "ca901cb2d8148259",
   "lastOpenFiles": [
-    "client-side/XSS/XSS_vi/Reflected XSS into Template Literal.mp4",
-    "client-side/XSS/Cross-site_scripting_contexts/XSS_into_js/(lab-14)XSS_in_js_template_literals.md",
-    "client-side/XSS/images/XSS92.png",
-    "client-side/XSS/DOM-based_XSS/DOM-based_XSS_list.md",
-    "common_terms/embedded JavaScript expressions.md",
-    "client-side/XSS/Cross-site_scripting_contexts/XSS_into_js/(lab-13)Making_use_of_HTML-encoding.md",
-    "client-side/XSS/images/XSS91.png",
-    "client-side/XSS/images/XSS90.png",
-    "server-side/file upload vulnerabilities/obfuscating file extensions.md",
-    "server-side/file upload vulnerabilities/Exploiting_unrestricted_file_uploads_to_deploy_a_web_shell(lab-1).md",
-    "server-side/file upload vulnerabilities/file upload vulnerabilities overview.md",
-    "server-side/file upload vulnerabilities/Exploiting_flawed_validation_of_file_uploads(lab-2).md",
-    "server-side/file upload vulnerabilities/Exploiting_file_upload_vulnerabilities_without_remote_code_execution_and_Exploiting_vulnerabilities_in_the_parsing_of_uploaded_files.md",
-    "server-side/file upload vulnerabilities/Exploiting_file_upload_race_conditions.md",
-    "server-side/file upload vulnerabilities/Preventing_file_execution_in_user-accessible_directories(lab-3).md",
-    "server-side/file upload vulnerabilities/Insufficient_blacklisting_of_dangerous_file_types.md",
-    "server-side/file upload vulnerabilities/Flawed_validation_of_the_file's_contents.md",
-    "server-side/SQL injection/Intro to SQLi vulnerability.md",
-    "server-side/SQL injection/images/intro_sqli.png",
-    "server-side/SQL injection/SQL injection cheat sheet.md",
-    "server-side/SQL injection/Retrieving data from other tables/introduction.md",
-    "server-side/SQL injection/Subverting application logic.md",
-    "server-side/SQL injection/SQL injection Prevention Techniques.md",
-    "server-side/SQL injection/SQL injection in different parts of the query.md",
-    "server-side/SQL injection/SQL injection in different contexts(WAF blocks SQL query).md",
-    "server-side/SQL injection/first and second order SQL injection.md",
-    "server-side/SQL injection/How to detect SQL injection vulnerabilities.md",
-    "server-side/SQL injection/Retrieving hidden data.md",
-    "client-side/XSS/XSS_vi/Stored_XSS_in_onclick_Payload_obfuscation_with_HTML_encoding..mp4",
-    "client-side/XSS/images/XSS89.png",
-    "client-side/XSS/Cross-site_scripting_contexts/XSS_into_js/(lab-12)Reflected_XSS_in_a_JavaScript_URL_with_some_characters_blocked.md",
-    "client-side/XSS/images/XSS88.png",
-    "client-side/XSS/images/XSS87.png",
-    "client-side/XSS/images/XSS86.png",
-    "client-side/XSS/images/XSS85.png",
-    "client-side/XSS/XSS_vi/Reflected_XSS_in_a_JavaScript_URL_with_some_characters_blocked-Explaining_the_Payload.mp4",
-    "client-side/XSS/XSS_vi/Reflected XSS in a JavaScript URL with some characters blocked - Explaining the Payload.mp4",
-    "client-side/XSS/XSS_vi",
-    "client-side/XSS/New folder",
-    "client-side/XSS/images/XSS84.png",
-    "client-side/XSS/Cross-site_scripting_contexts/XSS_into_js/(lab-11)Reflected_XSS_into_a_JavaScript_string_with_angle_brackets_and_double_quotes_HTML-encoded_and_single_quotes_escaped.md",
-    "client-side/XSS/Cross-site_scripting_contexts/XSS_into_js",
-    "temp.html",
-    "client-side/XSS/Cross-site_scripting_contexts",
-    "client-side/XSS/DOM-based_XSS/(lab-8)Stored_DOM_XSS"
+    "server-side/Authentication/Vulnerabilities in authentication mechanisms/Vulnerabilities in multi-factor auth/2FA broken logic(concept and lab-2).md",
+    "server-side/Authentication/Vulnerabilities in authentication mechanisms/Vulnerabilities in multi-factor auth/Bypassing 2FA(concept and Lab-1).md",
+    "server-side/Authentication/Vulnerabilities in authentication mechanisms/Vulnerabilities in multi-factor auth/multi-factor auth overview.md",
+    "server-side/Authentication/Vulnerabilities in authentication mechanisms/Vulnerabilities in password-based login/overview of Vulnerabilities in password-based login.md",
+    "server-side/Authentication/Authentication overview.md",
+    "server-side/Business logic vulnerabilities/examples of business logic vulnerabilities/Making flawed assumptions about user behavior.md",
+    "server-side/Authentication/Vulnerabilities in authentication mechanisms/Vulnerabilities in multi-factor auth/Brute-forcing 2FA verification codes(lab-3).md",
+    "server-side/Authentication/Vulnerabilities in authentication mechanisms/Vulnerabilities in password-based login/Username enumeration/Username enumeration via different responses(lab-1).md",
+    "common_terms/User-agent header.md",
+    "server-side/Authentication/Vulnerabilities in authentication mechanisms/Vulnerabilities in password-based login/Username enumeration/images/username_enumeration_via_subtly_different_responses9.png",
+    "server-side/Authentication/Vulnerabilities in authentication mechanisms/Vulnerabilities in password-based login/Username enumeration/images/username_enumeration_via_subtly_different_responses8.png",
+    "server-side/Authentication/Vulnerabilities in authentication mechanisms/Vulnerabilities in password-based login/Username enumeration/images/username_enumeration_via_subtly_different_responses7.png",
+    "server-side/Authentication/Vulnerabilities in authentication mechanisms/Vulnerabilities in password-based login/Username enumeration/images/username_enumeration_via_subtly_different_responses6.png",
+    "server-side/Authentication/Vulnerabilities in authentication mechanisms/Vulnerabilities in password-based login/Username enumeration/images/username_enumeration_via_subtly_different_responses5.png",
+    "server-side/Authentication/Vulnerabilities in authentication mechanisms/Vulnerabilities in password-based login/Username enumeration/images/username_enumeration_via_subtly_different_responses4.png",
+    "server-side/Authentication/Vulnerabilities in authentication mechanisms/Vulnerabilities in password-based login/Username enumeration/images/username_enumeration_via_subtly_different_responses3.png",
+    "server-side/Authentication/Vulnerabilities in authentication mechanisms/Vulnerabilities in password-based login/Username enumeration/images/username_enumeration_via_subtly_different_responses2.png",
+    "server-side/Authentication/Vulnerabilities in authentication mechanisms/Vulnerabilities in password-based login/Username enumeration/images/username_enumeration_via_subtly_different_responses1.png",
+    "server-side/Authentication/Vulnerabilities in authentication mechanisms/Vulnerabilities in password-based login/Username enumeration/images/username_enumeration_via_response_timing8.png",
+    "server-side/Authentication/Vulnerabilities in authentication mechanisms/Vulnerabilities in password-based login/Username enumeration/x-forwarded-for header.md",
+    "server-side/Authentication/Vulnerabilities in authentication mechanisms/Vulnerabilities in password-based login/Username enumeration/Username enumeration via subtly different responses(lab-2).md",
+    "server-side/Authentication/Vulnerabilities in authentication mechanisms/Vulnerabilities in password-based login/Username enumeration/Username enumeration via response timing(lab-3).md",
+    "server-side/Authentication/Vulnerabilities in authentication mechanisms/Vulnerabilities in password-based login/Username enumeration/Username enumeration via account lock(Lab-5).md",
+    "server-side/Authentication/Vulnerabilities in authentication mechanisms/Vulnerabilities in password-based login/Username enumeration/overview of username enumeration.md",
+    "server-side/Authentication/Vulnerabilities in authentication mechanisms/Vulnerabilities in password-based login/Username enumeration/images",
+    "server-side/Authentication/Vulnerabilities in authentication mechanisms/Vulnerabilities in password-based login/Username enumeration/Broken brute-force protection, multiple credentials per request.md",
+    "server-side/Authentication/Vulnerabilities in authentication mechanisms/Vulnerabilities in password-based login/Username enumeration/Broken brute-force protection, IP block(Lab-4).md",
+    "server-side/Authentication/Vulnerabilities in authentication mechanisms/Vulnerabilities in password-based login/Username enumeration",
+    "server-side/Authentication/Vulnerabilities in authentication mechanisms/Vulnerabilities in password-based login",
+    "server-side/Authentication/Vulnerabilities in authentication mechanisms/vulnerabilities in other auth/other auth overview.md",
+    "server-side/Authentication/Vulnerabilities in authentication mechanisms/vulnerabilities in other auth",
+    "server-side/Authentication/Vulnerabilities in authentication mechanisms/Vulnerabilities in multi-factor auth/images",
+    "server-side/Authentication/Vulnerabilities in authentication mechanisms/Vulnerabilities in multi-factor auth",
+    "server-side/Authentication/Vulnerabilities in authentication mechanisms",
+    "server-side/Authentication",
+    "client-side/WebSockets/(lab-2)Manipulating the WebSocket handshake to exploit vulnerabilities.md",
+    "client-side/CSRF/(lab-1)CSRF overview.md",
+    "client-side/CSRF/(lab-5)CSRF token is tied to a non-session cookie.md",
+    "client-side/WebSockets/(lab-1)WebSockets overview.md",
+    "burp_suite_concepts/WebSocket interception rules.md",
+    "client-side/WebSockets/images",
+    "client-side/WebSockets/New folder",
+    "client-side/CSRF/bypassing_samesite_cookie_restrictions/(lab-3)Bypassing SameSite restrictions via vulnerable sibling domains.md",
+    "client-side/CSRF/bypassing_samesite_cookie_restrictions/(lab-2)Bypassing SameSite restrictions using on-site gadgets.md",
+    "client-side/CSRF/(lab-4)CSRF token is not tied to the user session.md",
+    "client-side/CSRF/bypassing_samesite_cookie_restrictions/(lab-1)Bypassing SameSite Lax restrictions using GET requests.md"
   ]
 }

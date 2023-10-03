@@ -56,7 +56,7 @@ location.href = returnUrl ? returnUrl[1] : &quot;/&quot;
 
 In simpler terms, this code creates a link that, when clicked, tries to find a web address pattern in the current page's URL. If it finds a matching pattern, it takes you to that web address. If not, it takes you to the home page.
 
-2. Now, visit the exploit server and copy the url of exploit server and with that url paste the below payload in the place of current web page url.
+2. Now, visit the exploit server and copy the url of exploit server and with that url, paste the below payload in the place of current web page url.
 ```python
 https://0ab8002203ad915680c82b21000400b3.web-security-academy.net/post?postId=10&url=https://exploit-0a59004d03ca919780772ab001a0003e.exploit-server.net/#
 ```

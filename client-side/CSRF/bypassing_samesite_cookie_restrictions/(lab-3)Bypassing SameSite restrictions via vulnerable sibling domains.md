@@ -1,0 +1,1 @@
+- Whether you're testing someone else's website or trying to secure your own, it's essential to keep in mind that a request can still be same-site even if it's issued cross-origin. Make sure you thoroughly audit all of the available attack surface, including any sibling domains.

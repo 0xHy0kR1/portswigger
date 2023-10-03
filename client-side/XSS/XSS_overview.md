@@ -2,6 +2,7 @@
 - Cross-site scripting (XSS) is a type of online attack. It lets attacker sneak harmful code into a website or app that you use. This code can then affect how the website behaves for you and steal your data. It's a way for attackers to trick the website into doing things it shouldn't.
 - Cross-site scripting vulnerabilities normally allow an attacker to masquerade as a victim user, to carry out any actions that the user is able to perform, and to access any of the user's data
 - If the victim user has privileged access within the application, then the attacker might be able to gain full control over all of the application's functionality and data.
+- The traditional way to prove that you've found a [cross-site scripting](https://portswigger.net/web-security/cross-site-scripting) vulnerability is to create a popup using the `alert()` function. This isn't because [XSS](https://portswigger.net/web-security/cross-site-scripting) has anything to do with popups; it's simply a way to prove that you can execute arbitrary JavaScript on a given domain.
 
 ## How does XSS work?
 Cross-site scripting works by manipulating a vulnerable web site so that it returns malicious JavaScript to users. When the malicious code executes inside a victim's browser, the attacker can fully compromise their interaction with the application.
