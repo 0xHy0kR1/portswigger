@@ -7,7 +7,7 @@ This issue can be compounded if there is another user-controllable input on the 
 The severity of an encryption oracle depends on what functionality also uses the same algorithm as the oracle.
 
 ## Steps to solve the lab-1
-### Desc - Authentication bypass via encryption oracle
+### Title - Authentication bypass via encryption oracle
 
 1. First we login with our our credentials.
 2. When we enter into one of the blog then in the request to that endpoint, we can clearly see that there is a notification cookie.
