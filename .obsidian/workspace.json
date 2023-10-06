@@ -8,127 +8,30 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ab88d5a5cb7d0bb3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "client-side/WebSockets/(lab-2)Manipulating the WebSocket handshake to exploit vulnerabilities.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "369ce323864c9196",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "client-side/WebSockets/(lab-1)WebSockets overview.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "ebe542dc8d8e023b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "server-side/Authentication/Vulnerabilities in authentication mechanisms/vulnerabilities in other auth/(lab-1)other auth overview.md",
+                "file": "server-side/Authentication/Vulnerabilities in authentication mechanisms/vulnerabilities in other auth/Password reset poisoning/(lab-1)Basic password reset poisoning.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ae4ed398049a861b",
+            "id": "a1f2cba04e881f0b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "server-side/Authentication/Vulnerabilities in authentication mechanisms/vulnerabilities in other auth/Password reset broken logic.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "818c2c35cc23af6b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "server-side/Authentication/Vulnerabilities in authentication mechanisms/vulnerabilities in other auth/(lab-1)other auth overview.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cc702e1e16ef36af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "server-side/Authentication/Vulnerabilities in authentication mechanisms/Vulnerabilities in password-based login/Username enumeration/overview of username enumeration.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1f4d971eb8484cd5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "client-side/XSS/XSS_cheat-sheet-link.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ea2052cae93e3ba4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "server-side/Authentication/Vulnerabilities in authentication mechanisms/vulnerabilities in other auth/(lab-1)other auth overview.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ef127c9bca048dfb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "server-side/Authentication/Vulnerabilities in authentication mechanisms/vulnerabilities in other auth/how to secure your auth mechanism.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3974e2ca3151ab53",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "client-side/WebSockets/(lab-1)WebSockets overview.md",
+                "file": "server-side/Authentication/Vulnerabilities in authentication mechanisms/vulnerabilities in other auth/Password reset poisoning/Password reset poisoning overview.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -157,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "base64",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -194,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "server-side/Authentication/Vulnerabilities in authentication mechanisms/vulnerabilities in other auth/(lab-1)other auth overview.md",
+                "file": "server-side/Authentication/Vulnerabilities in authentication mechanisms/vulnerabilities in other auth/Password reset poisoning/(lab-1)Basic password reset poisoning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "server-side/Authentication/Vulnerabilities in authentication mechanisms/vulnerabilities in other auth/(lab-1)other auth overview.md",
+                "file": "server-side/Authentication/Vulnerabilities in authentication mechanisms/vulnerabilities in other auth/Password reset poisoning/(lab-1)Basic password reset poisoning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "server-side/Authentication/Vulnerabilities in authentication mechanisms/vulnerabilities in other auth/(lab-1)other auth overview.md"
+                "file": "server-side/Authentication/Vulnerabilities in authentication mechanisms/vulnerabilities in other auth/Password reset poisoning/(lab-1)Basic password reset poisoning.md"
               }
             }
           },
@@ -267,27 +170,34 @@
   },
   "active": "ebe542dc8d8e023b",
   "lastOpenFiles": [
-    "server-side/Authentication/Vulnerabilities in authentication mechanisms/images/authentication6.png",
-    "server-side/Authentication/Vulnerabilities in authentication mechanisms/images/authentication5.png",
-    "server-side/Authentication/Vulnerabilities in authentication mechanisms/images/authentication4.png",
-    "server-side/Authentication/Vulnerabilities in authentication mechanisms/images/authentication3.png",
-    "server-side/Authentication/Vulnerabilities in authentication mechanisms/images/authentication2.png",
-    "server-side/Authentication/Vulnerabilities in authentication mechanisms/images/authentication1.png",
-    "server-side/Authentication/Vulnerabilities in authentication mechanisms/authentication1.png",
+    "server-side/Authentication/Vulnerabilities in authentication mechanisms/images/authentication23.png",
+    "server-side/Authentication/Vulnerabilities in authentication mechanisms/images/authentication22.png",
+    "server-side/Authentication/Vulnerabilities in authentication mechanisms/images/authentication21.png",
+    "server-side/Authentication/Vulnerabilities in authentication mechanisms/images/authentication20.png",
+    "server-side/Authentication/Vulnerabilities in authentication mechanisms/images/authentication19.png",
+    "server-side/Authentication/Vulnerabilities in authentication mechanisms/images/authentication18.png",
+    "server-side/Authentication/Vulnerabilities in authentication mechanisms/images/authentication17.png",
+    "server-side/Authentication/Vulnerabilities in authentication mechanisms/images/authentication16.png",
+    "server-side/Authentication/Vulnerabilities in authentication mechanisms/images/authentication15.png",
+    "server-side/Authentication/Vulnerabilities in authentication mechanisms/vulnerabilities in other auth/Password reset poisoning/Password reset poisoning overview.md",
+    "server-side/Authentication/Vulnerabilities in authentication mechanisms/vulnerabilities in other auth/Password reset poisoning/(lab-1)Basic password reset poisoning.md",
+    "server-side/Authentication/Vulnerabilities in authentication mechanisms/images/authentication14.png",
+    "rnphlki7.bmp",
+    "client-side/WebSockets/(lab-3)Cross-site WebSocket hijacking.md",
+    "server-side/Authentication/Vulnerabilities in authentication mechanisms/vulnerabilities in other auth/Password reset poisoning",
+    "server-side/Authentication/Vulnerabilities in authentication mechanisms/vulnerabilities in other auth/Untitled.md",
+    "server-side/Authentication/Vulnerabilities in authentication mechanisms/vulnerabilities in other auth/(lab-2)Offline password cracking.md",
+    "client-side/XSS/(lab-17)Exploiting_cross-site_scripting_to_steal_cookies.md",
+    "server-side/Authentication/Vulnerabilities in authentication mechanisms/vulnerabilities in other auth/(lab-1)other auth overview.md",
     "server-side/Authentication/Vulnerabilities in authentication mechanisms/images",
     "server-side/Authentication/Vulnerabilities in authentication mechanisms/New folder",
     "server-side/Authentication/Vulnerabilities in authentication mechanisms/vulnerabilities in other auth/Password reset broken logic.md",
     "server-side/Business logic vulnerabilities/examples of business logic vulnerabilities/Providing an encryption oracle.md",
     "server-side/Authentication/Vulnerabilities in authentication mechanisms/Vulnerabilities in password-based login/Username enumeration/overview of username enumeration.md",
-    "server-side/Authentication/Vulnerabilities in authentication mechanisms/vulnerabilities in other auth/(lab-1)other auth overview.md",
     "server-side/Authentication/Vulnerabilities in authentication mechanisms/Vulnerabilities in password-based login/Username enumeration/Username enumeration via response timing(lab-3).md",
     "server-side/Authentication/Vulnerabilities in authentication mechanisms/vulnerabilities in other auth/how to secure your auth mechanism.md",
     "server-side/Authentication/Vulnerabilities in authentication mechanisms/vulnerabilities in other auth/changing users password.md",
     "client-side/WebSockets/(lab-2)Manipulating the WebSocket handshake to exploit vulnerabilities.md",
-    "client-side/WebSockets/images/WebSockets13.png",
-    "client-side/WebSockets/images/WebSockets12.png",
-    "client-side/WebSockets/images/WebSockets11.png",
-    "client-side/WebSockets/images/WebSockets10.png",
     "client-side/WebSockets/(lab-1)WebSockets overview.md",
     "client-side/XSS/XSS_cheat-sheet-link.md",
     "client-side/XSS/Cross-site_scripting_contexts/(lab-2)Reflected_XSS_into_HTML_context_with_most_tags_and attributes blocked.md",
@@ -299,19 +209,12 @@
     "server-side/Business logic vulnerabilities/examples of business logic vulnerabilities/Making flawed assumptions about user behavior.md",
     "server-side/Authentication/Vulnerabilities in authentication mechanisms/Vulnerabilities in multi-factor auth/Brute-forcing 2FA verification codes(lab-3).md",
     "server-side/Authentication/Vulnerabilities in authentication mechanisms/Vulnerabilities in password-based login/Username enumeration/Username enumeration via different responses(lab-1).md",
-    "common_terms/User-agent header.md",
-    "server-side/Authentication/Vulnerabilities in authentication mechanisms/Vulnerabilities in password-based login/Username enumeration/x-forwarded-for header.md",
-    "server-side/Authentication/Vulnerabilities in authentication mechanisms/Vulnerabilities in password-based login/Username enumeration/Username enumeration via subtly different responses(lab-2).md",
-    "server-side/Authentication/Vulnerabilities in authentication mechanisms/Vulnerabilities in password-based login/Username enumeration/Username enumeration via account lock(Lab-5).md",
     "server-side/Authentication/Vulnerabilities in authentication mechanisms/Vulnerabilities in password-based login/Username enumeration/images",
-    "server-side/Authentication/Vulnerabilities in authentication mechanisms/Vulnerabilities in password-based login/Username enumeration/Broken brute-force protection, multiple credentials per request.md",
-    "server-side/Authentication/Vulnerabilities in authentication mechanisms/Vulnerabilities in password-based login/Username enumeration/Broken brute-force protection, IP block(Lab-4).md",
     "server-side/Authentication/Vulnerabilities in authentication mechanisms/Vulnerabilities in password-based login/Username enumeration",
     "server-side/Authentication/Vulnerabilities in authentication mechanisms/Vulnerabilities in password-based login",
     "server-side/Authentication/Vulnerabilities in authentication mechanisms/vulnerabilities in other auth",
     "server-side/Authentication/Vulnerabilities in authentication mechanisms/Vulnerabilities in multi-factor auth/images",
     "server-side/Authentication/Vulnerabilities in authentication mechanisms/Vulnerabilities in multi-factor auth",
-    "server-side/Authentication/Vulnerabilities in authentication mechanisms",
-    "server-side/Authentication"
+    "server-side/Authentication/Vulnerabilities in authentication mechanisms"
   ]
 }
