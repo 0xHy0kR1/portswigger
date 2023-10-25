@@ -29,7 +29,7 @@ Other frameworks support a variety of similar parameters.
 **Our end goal** - To solve the lab, perform a [CSRF attack](https://portswigger.net/web-security/csrf) that changes the victim's email address. You should use the provided exploit server to host your attack.
 
 1. Analyse the website and check that three key conditions must be in place for a CSRF attack to be possible:
-After analysing the site, we come a endpoint where it is possible to change the email of a user. So, change your email and at the same time intercept it with burpsuite and sent it to Repeater.
+After analysing the site, we come across a endpoint where it is possible to change the email of a user. So, change your email and at the same time intercept it with burpsuite and sent it to Repeater.
 ![[csrf52.png]]
    - A relevant action - email change functionality.
    - Cookie based session handling.
