@@ -8,55 +8,43 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ebe542dc8d8e023b",
+            "id": "a409bf03e2512363",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "common_terms/Referer header.md",
+                "file": "burp_suite_concepts/Burp Clickbandit.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "4d62e777d6968f1e",
+            "id": "992053e93480717f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "client-side/WebSockets/(lab-1)WebSockets overview.md",
+                "file": "client-side/Clickjacking/(lab-3)Frame busting scripts.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "c4e958797ffb8aeb",
+            "id": "727a72ed0953b6cc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "client-side/WebSockets/(lab-3)Cross-site WebSocket hijacking.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "963a9eef42cc378b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "client-side/WebSockets/(lab-2)Manipulating the WebSocket handshake to exploit vulnerabilities.md",
+                "file": "client-side/Clickjacking/(lab-1)Clickjacking overview.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "x-forwarded-for",
+                "query": "origin header",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 579.5041885375977
+    "width": 485.50418853759766,
+    "collapsed": true
   },
   "right": {
     "id": "921a2791ecd52841",
@@ -122,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "client-side/WebSockets/(lab-3)Cross-site WebSocket hijacking.md",
+                "file": "client-side/Clickjacking/(lab-3)Frame busting scripts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "client-side/WebSockets/(lab-3)Cross-site WebSocket hijacking.md",
+                "file": "client-side/Clickjacking/(lab-3)Frame busting scripts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "client-side/WebSockets/(lab-3)Cross-site WebSocket hijacking.md"
+                "file": "client-side/Clickjacking/(lab-3)Frame busting scripts.md"
               }
             }
           },
@@ -193,53 +182,52 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c4e958797ffb8aeb",
+  "active": "992053e93480717f",
   "lastOpenFiles": [
-    "client-side/WebSockets/images/WebSockets17.png",
-    "client-side/WebSockets/images/WebSockets16.png",
-    "temp.js",
-    "client-side/WebSockets/images/WebSockets15.png",
-    "client-side/WebSockets/images/WebSockets14.png",
-    "client-side/WebSockets/(lab-1)WebSockets overview.md",
-    "client-side/WebSockets/(lab-3)Cross-site WebSocket hijacking.md",
-    "server-side/Authentication/Vulnerabilities in authentication mechanisms/images/authentication27.png",
-    "client-side/WebSockets/(lab-2)Manipulating the WebSocket handshake to exploit vulnerabilities.md",
-    "server-side/Authentication/Vulnerabilities in authentication mechanisms/vulnerabilities in other auth/Password reset poisoning/(lab-2)Password reset poisoning via middleware.md",
-    "server-side/Authentication/Vulnerabilities in authentication mechanisms/vulnerabilities in other auth/Password reset poisoning/(lab-1)Basic password reset poisoning.md",
-    "server-side/Authentication/Vulnerabilities in authentication mechanisms/images/authentication26.png",
-    "server-side/Authentication/Vulnerabilities in authentication mechanisms/images/authentication25.png",
-    "server-side/Authentication/Vulnerabilities in authentication mechanisms/images/authentication24.png",
-    "common_terms/X-Forwarded-Host header.md",
-    "common_terms/x-forwarded-for header.md",
-    "server-side/Authentication/Vulnerabilities in authentication mechanisms/vulnerabilities in other auth/Password reset poisoning/Password reset poisoning overview.md",
+    "temp.html",
+    "client-side/Clickjacking/(lab-1)Clickjacking overview.md",
+    "client-side/Clickjacking/(lab-3)Frame busting scripts.md",
+    "client-side/Clickjacking/(lab-2)Clickjacking with prefilled form input.md",
+    "client-side/Clickjacking/images/clickjacking18.png",
+    "client-side/Clickjacking/images/clickjacking17.png",
+    "client-side/Clickjacking/images/clickjacking16.png",
+    "client-side/Clickjacking/images/clickjacking15.png",
+    "client-side/Clickjacking/images/clickjacking14.png",
+    "client-side/Clickjacking/images/clickjacking13.png",
+    "burp_suite_concepts/Burp Clickbandit.md",
+    "client-side/Clickjacking/images/clickjacking12.png",
+    "client-side/Clickjacking/images/clickjacking11.png",
+    "client-side/Clickjacking/images/clickjacking10.png",
+    "client-side/Clickjacking/images/clickjacking9.png",
+    "client-side/Clickjacking/clickingJacking_02_lab.html",
+    "client-side/Cross-origin resource sharing (CORS)/Vulnerabilities arising from CORS configuration issues/(lab-1)Server-generated ACAO header from client-specified Origin header.md",
+    "client-side/Clickjacking/images",
+    "client-side/Cross-origin resource sharing (CORS)/Vulnerabilities arising from CORS configuration issues/(lab-4)Intranets and CORS without credentials.md",
+    "client-side/Clickjacking",
+    "client-side/Cross-origin resource sharing (CORS)/Vulnerabilities arising from CORS configuration issues/(lab-3)CORS vulnerability with trusted insecure protocols.md",
+    "client-side/Cross-origin resource sharing (CORS)/Cross-origin resource sharing(CORS) overview/CORS and the Access-Control-Allow-Origin response header.md",
+    "client-side/Cross-origin resource sharing (CORS)/Cross-origin resource sharing(CORS) overview/Cross-origin resource sharing (CORS) overview.md",
+    "client-side/Cross-origin resource sharing (CORS)/Vulnerabilities arising from CORS configuration issues/(lab-2)CORS vulnerability with trusted null origin.md",
+    "common_terms/Host header.md",
+    "common_terms/Origin header.md",
+    "client-side/Cross-origin resource sharing (CORS)/CORS_vi/Drone Mapping.pdf",
+    "client-side/Cross-origin resource sharing (CORS)/CORS_vi/ERP assignment unit 4&5.docx",
+    "client-side/Cross-origin resource sharing (CORS)/CORS_vi/Unconfirmed 307058.crdownload",
+    "client-side/Cross-origin resource sharing (CORS)/CORS_vi/25bf046b-4e61-4ba4-be17-91b351fb4666.tmp",
+    "client-side/Cross-origin resource sharing (CORS)/CORS_vi/CORS_Lab_2_CORS vulnerability with trusted null origin _ Long Video.mp4",
+    "client-side/Cross-origin resource sharing (CORS)/CORS_vi/CORS - Lab #2 CORS vulnerability with trusted null origin _ Long Video.mp4.crdownload",
+    "common_terms/Access-Control-Allow-Origin Header.md",
+    "client-side/Cross-origin resource sharing (CORS)/Cross-origin resource sharing(CORS) overview/Same-origin policy(SOP).md",
+    "temp.md",
     "common_terms/Referer header.md",
-    "common_terms/User-agent header.md",
-    "server-side/Authentication/Vulnerabilities in authentication mechanisms/images/authentication23.png",
-    "server-side/Authentication/Vulnerabilities in authentication mechanisms/images/authentication22.png",
-    "server-side/Authentication/Vulnerabilities in authentication mechanisms/images/authentication21.png",
-    "server-side/Authentication/Vulnerabilities in authentication mechanisms/vulnerabilities in other auth/Password reset poisoning",
-    "server-side/Authentication/Vulnerabilities in authentication mechanisms/vulnerabilities in other auth/Untitled.md",
-    "server-side/Authentication/Vulnerabilities in authentication mechanisms/vulnerabilities in other auth/(lab-2)Offline password cracking.md",
-    "client-side/XSS/(lab-17)Exploiting_cross-site_scripting_to_steal_cookies.md",
-    "server-side/Authentication/Vulnerabilities in authentication mechanisms/vulnerabilities in other auth/(lab-1)other auth overview.md",
-    "server-side/Authentication/Vulnerabilities in authentication mechanisms/images",
-    "server-side/Authentication/Vulnerabilities in authentication mechanisms/New folder",
-    "server-side/Authentication/Vulnerabilities in authentication mechanisms/vulnerabilities in other auth/Password reset broken logic.md",
-    "server-side/Business logic vulnerabilities/examples of business logic vulnerabilities/Providing an encryption oracle.md",
-    "server-side/Authentication/Vulnerabilities in authentication mechanisms/Vulnerabilities in password-based login/Username enumeration/overview of username enumeration.md",
-    "server-side/Authentication/Vulnerabilities in authentication mechanisms/Vulnerabilities in password-based login/Username enumeration/Username enumeration via response timing(lab-3).md",
-    "server-side/Authentication/Vulnerabilities in authentication mechanisms/vulnerabilities in other auth/how to secure your auth mechanism.md",
-    "server-side/Authentication/Vulnerabilities in authentication mechanisms/vulnerabilities in other auth/changing users password.md",
-    "client-side/XSS/XSS_cheat-sheet-link.md",
-    "client-side/XSS/Cross-site_scripting_contexts/(lab-2)Reflected_XSS_into_HTML_context_with_most_tags_and attributes blocked.md",
-    "server-side/Authentication/Vulnerabilities in authentication mechanisms/Vulnerabilities in multi-factor auth/2FA broken logic(concept and lab-2).md",
-    "server-side/Authentication/Vulnerabilities in authentication mechanisms/Vulnerabilities in multi-factor auth/multi-factor auth overview.md",
-    "server-side/Authentication/Vulnerabilities in authentication mechanisms/Vulnerabilities in multi-factor auth/Bypassing 2FA(concept and Lab-1).md",
-    "server-side/Authentication/Vulnerabilities in authentication mechanisms/Vulnerabilities in password-based login/Username enumeration/images",
-    "server-side/Authentication/Vulnerabilities in authentication mechanisms/Vulnerabilities in password-based login/Username enumeration",
-    "server-side/Authentication/Vulnerabilities in authentication mechanisms/Vulnerabilities in password-based login",
-    "server-side/Authentication/Vulnerabilities in authentication mechanisms/vulnerabilities in other auth",
-    "server-side/Authentication/Vulnerabilities in authentication mechanisms/Vulnerabilities in multi-factor auth/images",
-    "server-side/Authentication/Vulnerabilities in authentication mechanisms/Vulnerabilities in multi-factor auth"
+    "burp_suite_concepts/CheatSheet.md",
+    "client-side/CSRF/How to prevent CSRF vulnerabilities.md",
+    "client-side/CSRF/Bypassing Referer-based CSRF defenses/(lab-2)Validation of Referer can be circumvented.md",
+    "client-side/CSRF/Bypassing Referer-based CSRF defenses/(lab-1)Bypassing Referer-based CSRF defenses.md",
+    "client-side/CSRF/(lab-1)CSRF overview.md",
+    "client-side/CSRF/bypassing_samesite_cookie_restrictions/(lab-1)Bypassing SameSite Lax restrictions using GET requests.md",
+    "client-side/CSRF/bypassing_samesite_cookie_restrictions/(lab-4)Bypassing SameSite Lax restrictions with newly issued cookies.md",
+    "client-side/CSRF/bypassing_samesite_cookie_restrictions/(lab-3)Bypassing SameSite restrictions via vulnerable sibling domains.md",
+    "client-side/WebSockets/(lab-3)Cross-site WebSocket hijacking.md"
   ]
 }
