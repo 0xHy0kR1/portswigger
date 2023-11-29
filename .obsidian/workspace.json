@@ -25,6 +25,126 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "server-side/NoSQL injection/NoSQL overview.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b046f5ef3cf68367",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "server-side/NoSQL injection/NoSQL overview.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "78bc364d02c9f50a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "server-side/SQL injection/Intro to SQLi vulnerability.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "df8ce8520ac8e8d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "server-side/XML_external_entity_(XXE)_injection/Exploiting_XXE_to_retrieve_files(lab-1).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a986755e8f1da1e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "server-side/access control/IDOR.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7dc4965d5be0b604",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "server-side/XML_external_entity_(XXE)_injection/XXE_overview.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "06d9bc88ba099ce9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "server-side/Authentication/Vulnerabilities in authentication mechanisms/Vulnerabilities in password-based login/Username enumeration/Username enumeration via different responses(lab-1).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "abecafa6e54c3ae4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "server-side/Authentication/Vulnerabilities in authentication mechanisms/Vulnerabilities in password-based login/Username enumeration/Username enumeration via different responses(lab-1).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "82a9e33997ab651f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "client-side/Clickjacking/(lab-2)Clickjacking with prefilled form input.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "966266cd2c756f78",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "client-side/Clickjacking/(lab-1)Clickjacking overview.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "298ed5f3abee7fa5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "client-side/Clickjacking/(lab-3)Frame busting scripts.md",
                 "mode": "source",
                 "source": false
@@ -44,7 +164,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -73,7 +193,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "origin header",
+                "query": "idor",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,12 +210,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 485.50418853759766,
-    "collapsed": true
+    "width": 522.5041885375977
   },
   "right": {
     "id": "921a2791ecd52841",
@@ -111,7 +231,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "client-side/Clickjacking/(lab-3)Frame busting scripts.md",
+                "file": "server-side/access control/IDOR.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +248,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "client-side/Clickjacking/(lab-3)Frame busting scripts.md",
+                "file": "server-side/access control/IDOR.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +271,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "client-side/Clickjacking/(lab-3)Frame busting scripts.md"
+                "file": "server-side/access control/IDOR.md"
               }
             }
           },
@@ -182,52 +302,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "992053e93480717f",
+  "active": "a986755e8f1da1e7",
   "lastOpenFiles": [
-    "temp.html",
+    "server-side/XML_external_entity_(XXE)_injection/Exploiting_XXE_to_retrieve_files(lab-1).md",
+    "client-side/XSS/XSS_overview.md",
+    "server-side/XML_external_entity_(XXE)_injection/XXE_overview.md",
+    "server-side/Authentication/Vulnerabilities in authentication mechanisms/Vulnerabilities in password-based login/Username enumeration/Username enumeration via different responses(lab-1).md",
+    "server-side/Authentication/Vulnerabilities in authentication mechanisms/Vulnerabilities in password-based login/overview of Vulnerabilities in password-based login.md",
+    "server-side/Authentication/Authentication overview.md",
+    "server-side/file upload vulnerabilities/Exploiting_unrestricted_file_uploads_to_deploy_a_web_shell(lab-1).md",
+    "server-side/file upload vulnerabilities/file upload vulnerabilities overview.md",
+    "client-side/XSS/Cross-site_scripting_contexts/(lab-1)Reflected_XSS.md",
+    "server-side/command injection/command injection overview(lab-1).md",
+    "server-side/SQL injection/Retrieving hidden data.md",
+    "server-side/SQL injection/How to detect SQL injection vulnerabilities.md",
+    "server-side/SQL injection/Intro to SQLi vulnerability.md",
+    "server-side/SQL injection/SQL injection cheat sheet.md",
+    "server-side/NoSQL injection/(lab-1)NoSQL Syntax Injection(exploiting NoSQL).md",
+    "server-side/NoSQL injection/images/nosql10.png",
+    "server-side/NoSQL injection/images/nosql9.png",
+    "server-side/NoSQL injection/images/nosql8.png",
+    "server-side/NoSQL injection/images/nosql7.png",
+    "server-side/NoSQL injection/images/nosql6.png",
+    "server-side/NoSQL injection/images/nosql5.png",
+    "server-side/NoSQL injection/images/nosql4.png",
+    "server-side/NoSQL injection/images/nosql3.png",
+    "server-side/NoSQL injection/images/nosql2.png",
+    "server-side/NoSQL injection/NoSQL overview.md",
+    "server-side/NoSQL injection/Introduction to NoSQL databases.md",
+    "server-side/NoSQL injection/images/nosql1.png",
+    "server-side/NoSQL injection/images",
+    "client-side/Clickjacking/How to prevent clickjacking attacks.md",
+    "server-side/NoSQL injection",
+    "client-side/Clickjacking/(lab-5)Multistep clickjacking.md",
     "client-side/Clickjacking/(lab-1)Clickjacking overview.md",
-    "client-side/Clickjacking/(lab-3)Frame busting scripts.md",
     "client-side/Clickjacking/(lab-2)Clickjacking with prefilled form input.md",
-    "client-side/Clickjacking/images/clickjacking18.png",
-    "client-side/Clickjacking/images/clickjacking17.png",
-    "client-side/Clickjacking/images/clickjacking16.png",
-    "client-side/Clickjacking/images/clickjacking15.png",
-    "client-side/Clickjacking/images/clickjacking14.png",
-    "client-side/Clickjacking/images/clickjacking13.png",
-    "burp_suite_concepts/Burp Clickbandit.md",
-    "client-side/Clickjacking/images/clickjacking12.png",
-    "client-side/Clickjacking/images/clickjacking11.png",
-    "client-side/Clickjacking/images/clickjacking10.png",
-    "client-side/Clickjacking/images/clickjacking9.png",
+    "client-side/Clickjacking/(lab-4)Combining clickjacking with a DOM XSS attack.md",
+    "client-side/Clickjacking/(lab-3)Frame busting scripts.md",
+    "client-side/XSS/XSS_cheat-sheet-link.md",
+    "client-side/XSS/DOM-based_XSS/(lab-12)DOM-based_open_redirection.md",
+    "client-side/XSS/DOM-based_XSS/(lab-11)Origin_verification.md",
+    "temp.html",
     "client-side/Clickjacking/clickingJacking_02_lab.html",
-    "client-side/Cross-origin resource sharing (CORS)/Vulnerabilities arising from CORS configuration issues/(lab-1)Server-generated ACAO header from client-specified Origin header.md",
     "client-side/Clickjacking/images",
-    "client-side/Cross-origin resource sharing (CORS)/Vulnerabilities arising from CORS configuration issues/(lab-4)Intranets and CORS without credentials.md",
     "client-side/Clickjacking",
-    "client-side/Cross-origin resource sharing (CORS)/Vulnerabilities arising from CORS configuration issues/(lab-3)CORS vulnerability with trusted insecure protocols.md",
-    "client-side/Cross-origin resource sharing (CORS)/Cross-origin resource sharing(CORS) overview/CORS and the Access-Control-Allow-Origin response header.md",
-    "client-side/Cross-origin resource sharing (CORS)/Cross-origin resource sharing(CORS) overview/Cross-origin resource sharing (CORS) overview.md",
-    "client-side/Cross-origin resource sharing (CORS)/Vulnerabilities arising from CORS configuration issues/(lab-2)CORS vulnerability with trusted null origin.md",
-    "common_terms/Host header.md",
-    "common_terms/Origin header.md",
     "client-side/Cross-origin resource sharing (CORS)/CORS_vi/Drone Mapping.pdf",
     "client-side/Cross-origin resource sharing (CORS)/CORS_vi/ERP assignment unit 4&5.docx",
     "client-side/Cross-origin resource sharing (CORS)/CORS_vi/Unconfirmed 307058.crdownload",
-    "client-side/Cross-origin resource sharing (CORS)/CORS_vi/25bf046b-4e61-4ba4-be17-91b351fb4666.tmp",
-    "client-side/Cross-origin resource sharing (CORS)/CORS_vi/CORS_Lab_2_CORS vulnerability with trusted null origin _ Long Video.mp4",
-    "client-side/Cross-origin resource sharing (CORS)/CORS_vi/CORS - Lab #2 CORS vulnerability with trusted null origin _ Long Video.mp4.crdownload",
-    "common_terms/Access-Control-Allow-Origin Header.md",
-    "client-side/Cross-origin resource sharing (CORS)/Cross-origin resource sharing(CORS) overview/Same-origin policy(SOP).md",
-    "temp.md",
-    "common_terms/Referer header.md",
-    "burp_suite_concepts/CheatSheet.md",
-    "client-side/CSRF/How to prevent CSRF vulnerabilities.md",
-    "client-side/CSRF/Bypassing Referer-based CSRF defenses/(lab-2)Validation of Referer can be circumvented.md",
-    "client-side/CSRF/Bypassing Referer-based CSRF defenses/(lab-1)Bypassing Referer-based CSRF defenses.md",
-    "client-side/CSRF/(lab-1)CSRF overview.md",
-    "client-side/CSRF/bypassing_samesite_cookie_restrictions/(lab-1)Bypassing SameSite Lax restrictions using GET requests.md",
-    "client-side/CSRF/bypassing_samesite_cookie_restrictions/(lab-4)Bypassing SameSite Lax restrictions with newly issued cookies.md",
-    "client-side/CSRF/bypassing_samesite_cookie_restrictions/(lab-3)Bypassing SameSite restrictions via vulnerable sibling domains.md",
-    "client-side/WebSockets/(lab-3)Cross-site WebSocket hijacking.md"
+    "client-side/Cross-origin resource sharing (CORS)/CORS_vi/25bf046b-4e61-4ba4-be17-91b351fb4666.tmp"
   ]
 }

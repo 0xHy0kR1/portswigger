@@ -13,9 +13,9 @@ https://insecure-website.com/products?category=Gifts
 	-   and released is 1
 - The restriction `released = 1` is being used to hide products that are not released. For unreleased products, presumably `released = 0`.
 
-## If the developer doesn't implement any defenses agains SQL 
+## If the developer doesn't implement any defenses against SQL 
 
-- The application doesn't implement any defenses against SQL injection attacks, so an attacker can construct an attack like:
+- The application developer doesn't implement any defenses against SQL injection attacks, so an attacker can construct an attack like:
 ```js
 `https://insecure-website.com/products?category=Gifts'--`
 ```
