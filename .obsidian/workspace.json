@@ -4,167 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "0764d1061f963b98",
+        "id": "64fce97316644be0",
         "type": "tabs",
         "children": [
           {
-            "id": "a409bf03e2512363",
+            "id": "08aadb1a1fd98123",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "burp_suite_concepts/Burp Clickbandit.md",
+                "file": "server-side/NoSQL injection/(lab-3)Exploiting syntax injection to extract data.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "992053e93480717f",
+            "id": "ac12373b6f22a690",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "server-side/NoSQL injection/NoSQL overview.md",
+                "file": "server-side/NoSQL injection/(lab-2)NoSQL operator injection.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "b046f5ef3cf68367",
+            "id": "757d9bb36bde82e8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "server-side/NoSQL injection/NoSQL overview.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "78bc364d02c9f50a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "server-side/SQL injection/Intro to SQLi vulnerability.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "df8ce8520ac8e8d7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "server-side/XML_external_entity_(XXE)_injection/Exploiting_XXE_to_retrieve_files(lab-1).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a986755e8f1da1e7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "server-side/access control/IDOR.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7dc4965d5be0b604",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "server-side/XML_external_entity_(XXE)_injection/XXE_overview.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "06d9bc88ba099ce9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "server-side/Authentication/Vulnerabilities in authentication mechanisms/Vulnerabilities in password-based login/Username enumeration/Username enumeration via different responses(lab-1).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "abecafa6e54c3ae4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "server-side/Authentication/Vulnerabilities in authentication mechanisms/Vulnerabilities in password-based login/Username enumeration/Username enumeration via different responses(lab-1).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "82a9e33997ab651f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "client-side/Clickjacking/(lab-2)Clickjacking with prefilled form input.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "966266cd2c756f78",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "client-side/Clickjacking/(lab-1)Clickjacking overview.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "298ed5f3abee7fa5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "client-side/Clickjacking/(lab-3)Frame busting scripts.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "727a72ed0953b6cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "client-side/Clickjacking/(lab-1)Clickjacking overview.md",
+                "file": "server-side/NoSQL injection/(lab-1)NoSQL Syntax Injection(exploiting NoSQL).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -210,8 +90,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -231,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "server-side/access control/IDOR.md",
+                "file": "server-side/NoSQL injection/(lab-2)NoSQL operator injection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -248,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "server-side/access control/IDOR.md",
+                "file": "server-side/NoSQL injection/(lab-2)NoSQL operator injection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -271,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "server-side/access control/IDOR.md"
+                "file": "server-side/NoSQL injection/(lab-2)NoSQL operator injection.md"
               }
             }
           },
@@ -302,8 +181,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a986755e8f1da1e7",
+  "active": "ac12373b6f22a690",
   "lastOpenFiles": [
+    "server-side/NoSQL injection/(lab-3)Exploiting syntax injection to extract data.md",
+    "server-side/NoSQL injection/images/nosql25.png",
+    "server-side/NoSQL injection/images/nosql24.png",
+    "server-side/NoSQL injection/images/nosql23.png",
+    "server-side/NoSQL injection/images/nosql22.png",
+    "server-side/NoSQL injection/images/nosql21.png",
+    "server-side/NoSQL injection/images/nosql20.png",
+    "server-side/NoSQL injection/images/nosql19.png",
+    "server-side/NoSQL injection/images/nosql18.png",
+    "server-side/NoSQL injection/images/nosql17.png",
+    "server-side/NoSQL injection/images/nosql16.png",
+    "server-side/NoSQL injection/(lab-2)NoSQL operator injection.md",
+    "server-side/NoSQL injection/(lab-1)NoSQL Syntax Injection(exploiting NoSQL).md",
+    "burp_suite_concepts/Content Type Converter.md",
+    "server-side/NoSQL injection/Introduction to NoSQL databases.md",
+    "server-side/access control/IDOR.md",
     "server-side/XML_external_entity_(XXE)_injection/Exploiting_XXE_to_retrieve_files(lab-1).md",
     "client-side/XSS/XSS_overview.md",
     "server-side/XML_external_entity_(XXE)_injection/XXE_overview.md",
@@ -318,30 +213,13 @@
     "server-side/SQL injection/How to detect SQL injection vulnerabilities.md",
     "server-side/SQL injection/Intro to SQLi vulnerability.md",
     "server-side/SQL injection/SQL injection cheat sheet.md",
-    "server-side/NoSQL injection/(lab-1)NoSQL Syntax Injection(exploiting NoSQL).md",
-    "server-side/NoSQL injection/images/nosql10.png",
-    "server-side/NoSQL injection/images/nosql9.png",
-    "server-side/NoSQL injection/images/nosql8.png",
-    "server-side/NoSQL injection/images/nosql7.png",
-    "server-side/NoSQL injection/images/nosql6.png",
-    "server-side/NoSQL injection/images/nosql5.png",
-    "server-side/NoSQL injection/images/nosql4.png",
-    "server-side/NoSQL injection/images/nosql3.png",
-    "server-side/NoSQL injection/images/nosql2.png",
     "server-side/NoSQL injection/NoSQL overview.md",
-    "server-side/NoSQL injection/Introduction to NoSQL databases.md",
-    "server-side/NoSQL injection/images/nosql1.png",
     "server-side/NoSQL injection/images",
     "client-side/Clickjacking/How to prevent clickjacking attacks.md",
     "server-side/NoSQL injection",
     "client-side/Clickjacking/(lab-5)Multistep clickjacking.md",
     "client-side/Clickjacking/(lab-1)Clickjacking overview.md",
     "client-side/Clickjacking/(lab-2)Clickjacking with prefilled form input.md",
-    "client-side/Clickjacking/(lab-4)Combining clickjacking with a DOM XSS attack.md",
-    "client-side/Clickjacking/(lab-3)Frame busting scripts.md",
-    "client-side/XSS/XSS_cheat-sheet-link.md",
-    "client-side/XSS/DOM-based_XSS/(lab-12)DOM-based_open_redirection.md",
-    "client-side/XSS/DOM-based_XSS/(lab-11)Origin_verification.md",
     "temp.html",
     "client-side/Clickjacking/clickingJacking_02_lab.html",
     "client-side/Clickjacking/images",
